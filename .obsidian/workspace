@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0eb083cbc6b9c0fb",
+        "id": "13205cee2dbb10a4",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 199.5
   },
   "right": {
     "id": "222d1a605e12193c",
@@ -67,22 +67,6 @@
         "id": "e6e143648fd58de0",
         "type": "tabs",
         "children": [
-          {
-            "id": "4107996fb23629f8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "12fc5a16e132b1db",
             "type": "leaf",
@@ -114,20 +98,54 @@
             }
           },
           {
-            "id": "d43a137b3b62d0ee",
+            "id": "95e40fd8a2dc76fe",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "73241938e4447060",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce1ce7eb3750088a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
-  "active": "0eb083cbc6b9c0fb",
-  "lastOpenFiles": []
+  "active": "95e40fd8a2dc76fe",
+  "lastOpenFiles": [
+    "Thursday, 13 - 10 - 2022.md",
+    "2022-10-13.md",
+    "Excalidraw/Drawing 2022-10-13 20.07.54.excalidraw.md",
+    "RPG Campaign/Ideias soltas.md",
+    "Tasks.md",
+    "Friday, 14 - 10 - 2022.md",
+    "Wednesday, 12 - 10 - 2022.md",
+    "RPG Campaign/Party/Heitor.md",
+    "RPG Manager/Backend.md"
+  ]
 }

@@ -1,3 +1,8 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Primary",
+  "theme": "obsidian",
+  "textFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "global"
+  ]
 }

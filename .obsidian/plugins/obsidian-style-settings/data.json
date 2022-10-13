@@ -1,0 +1,17 @@
+{
+  "primary-ceciliamay@@font-preview-header": "\"Inter\", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  "primary-ceciliamay@@font-editor-header": "\"Inter\", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  "primary-ceciliamay@@font-preview": "\"Inter\", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  "primary-ceciliamay@@font-editor": "\"Inter\", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  "primary-ceciliamay@@font-interface-theme": "\"Inter\", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif",
+  "primary-ceciliamay@@inter-alt": true,
+  "primary-ceciliamay@@tabular-nums": true,
+  "primary-ceciliamay@@scroll__scalable-fonts": false,
+  "primary-ceciliamay@@vault-title__titlebar": false,
+  "primary-ceciliamay@@vault-title__file-explorer": false,
+  "primary-ceciliamay@@linewrap-file__file-explorer": false,
+  "primary-ceciliamay@@hide__note-header": true,
+  "primary-ceciliamay@@scrollbar-style": "scrollbar__mac",
+  "primary-ceciliamay@@header-size__preset": "header-size__original",
+  "primary-ceciliamay@@header-color__preset": "header-color__rainbow"
+}
