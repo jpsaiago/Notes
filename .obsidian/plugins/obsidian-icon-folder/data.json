@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 18,
+    "iconColor": "#e6e6e6",
+    "recentlyUsedIcons": [
+      "DcRogue",
+      "FasIcons",
+      "FasInbox",
+      "FarImages",
+      "FabDAndD"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Daily Notes": "FarCalendarDays",
+  "Assets": "FasDatabase",
+  "Tasks.md": "FasListCheck",
+  "Assets/Templates": "FasPaperclip",
+  "Work": "FasDollarSign",
+  "RPG Campaigns": "FasDice",
+  "RPG Campaigns/Steel Shadows/Party": "FasUserGroup",
+  "RPG Campaigns/Steel Shadows/World": "FasEarthAmericas",
+  "RPG Campaigns/Steel Shadows": "FabDAndD",
+  "Assets/Images": "FarImages",
+  "RPG Campaigns/Steel Shadows/Idea Inbox.md": "FasInbox",
+  "Assets/Icons": "FasIcons",
+  "RPG Campaigns/Steel Shadows/Party/Heitor.md": "DcRogue"
+}

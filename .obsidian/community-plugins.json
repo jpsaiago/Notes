@@ -2,10 +2,13 @@
   "table-editor-obsidian",
   "calendar",
   "obsidian-tasks-plugin",
-  "obsidian-admonition",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "nldates-obsidian",
   "obsidian-git",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-admonition",
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-icon-folder",
+  "obsidian-emoji-toolbar"
 ]

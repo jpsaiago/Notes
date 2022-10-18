@@ -1,8 +1,10 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "textFontFamily": "Fira Code",
   "enabledCssSnippets": [
-    "global"
-  ]
+    "global",
+    "callouts"
+  ],
+  "accentColor": "#c93166"
 }

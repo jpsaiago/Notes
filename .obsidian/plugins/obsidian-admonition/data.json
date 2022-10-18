@@ -1,5 +1,43 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "idea": {
+      "type": "idea",
+      "color": "245, 226, 15",
+      "icon": {
+        "type": "octicons",
+        "name": "light-bulb"
+      },
+      "command": false,
+      "title": "Idea",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "pro": {
+      "type": "pro",
+      "color": "46, 251, 19",
+      "icon": {
+        "type": "octicons",
+        "name": "thumbsup"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "con": {
+      "type": "con",
+      "color": "216, 24, 24",
+      "icon": {
+        "type": "octicons",
+        "name": "thumbsdown"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.5",
@@ -10,15 +48,18 @@
   "dropShadow": true,
   "hideEmpty": false,
   "open": {
-    "admonitions": true,
+    "admonitions": false,
     "icons": true,
-    "other": true,
+    "other": false,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "rpg",
+    "octicons"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.179394"
+  "snippetPath": "custom-admonitions.fa45ef"
 }

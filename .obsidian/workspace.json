@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "c7b46d7f77c39d87",
+    "type": "split",
+    "children": [
+      {
+        "id": "55be6308add46c74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb59be0bcd46f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG Campaigns/Steel Shadows/Idea Inbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "183d9d8979c8323f",
+    "type": "split",
+    "children": [
+      {
+        "id": "412bca23aedf128f",
+        "type": "tabs",
+        "dimension": 55.013550135501355,
+        "children": [
+          {
+            "id": "d55e352a1f2081f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9bc3a422b66b2d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3d8a0b430aaee87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "24f80ce995378e3a",
+        "type": "tabs",
+        "dimension": 44.986449864498645,
+        "children": [
+          {
+            "id": "95e40fd8a2dc76fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "222d1a605e12193c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e143648fd58de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce1ce7eb3750088a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG Campaigns/Steel Shadows/Idea Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12fc5a16e132b1db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RPG Campaigns/Steel Shadows/Idea Inbox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415328e8b5dd587e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c7b52ea48db3fce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG Campaigns/Steel Shadows/Idea Inbox.md"
+              }
+            }
+          },
+          {
+            "id": "73241938e4447060",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9fb59be0bcd46f5b",
+  "lastOpenFiles": [
+    "RPG Campaigns/Steel Shadows/World/World MOC.md",
+    "RPG Campaigns/Steel Shadows/Idea Inbox.md",
+    "RPG Campaigns/Steel Shadows/Party/Heitor.md",
+    "Tasks.md",
+    "Teste.md",
+    "Untitled.md",
+    "World.md",
+    "Assets/Images/World_Structure.webp",
+    "Daily Notes/2022/October/Saturday, 15-10-2022 .md",
+    "Work/Cover Letter.md"
+  ]
+}
