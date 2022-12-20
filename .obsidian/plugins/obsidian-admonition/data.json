@@ -2,7 +2,7 @@
   "userAdmonitions": {
     "idea": {
       "type": "idea",
-      "color": "245, 226, 15",
+      "color": "198, 183, 16",
       "icon": {
         "type": "octicons",
         "name": "light-bulb"
@@ -33,6 +33,19 @@
         "name": "thumbsdown"
       },
       "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "list": {
+      "type": "list",
+      "color": "227, 132, 22",
+      "icon": {
+        "name": "list",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "List",
       "injectColor": true,
       "noTitle": false,
       "copy": false

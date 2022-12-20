@@ -5,11 +5,11 @@
     "fontSize": 18,
     "iconColor": "#e6e6e6",
     "recentlyUsedIcons": [
-      "DcRogue",
-      "FasIcons",
-      "FasInbox",
-      "FarImages",
-      "FabDAndD"
+      "FasHelmetSafety",
+      "FarMoneyBill1",
+      "FasPencil",
+      "FasPenFancy",
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,11 @@
   "Assets/Images": "FarImages",
   "RPG Campaigns/Steel Shadows/Idea Inbox.md": "FasInbox",
   "Assets/Icons": "FasIcons",
-  "RPG Campaigns/Steel Shadows/Party/Heitor.md": "DcRogue"
+  "RPG Campaigns/Steel Shadows/Party/Heitor.md": "DcRogue",
+  "Projects": "FasClipboardList",
+  "Studies": "FasUserGraduate",
+  "Studies/Engenharia de Software": "FasGears",
+  "Terapia": "FasBrain",
+  "Projects/Pensmith": "FasPenFancy",
+  "Vagas.md": "FasHelmetSafety"
 }

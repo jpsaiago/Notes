@@ -1,10 +1,11 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Blue Topaz",
   "theme": "obsidian",
   "textFontFamily": "Fira Code",
   "enabledCssSnippets": [
     "global",
     "callouts"
   ],
-  "accentColor": "#c93166"
+  "accentColor": "#c93166",
+  "baseFontSize": 15
 }
