@@ -1,0 +1,95 @@
+## Current Progress
+
+Back office task completion
+
+- General progress:
+  - [x] Date formatter 
+  - [x] Data loading setup
+
+- Translations:
+  - [x] Setup
+  - [x] Type generation
+  - [x] Lazy loading
+  - [ ] Populate files
+- Auth:
+  - [x] Splash Screen
+  - [ ] Okta integration (Documentation already explored, ready to implement)
+- Dashboard
+  - [x] Main cards
+  - [ ] Filters
+  - [ ] Api get
+- Live:
+  - [x] Screen
+  - [ ] Map data
+- Locals:
+  - List:
+    - [ ] Screen
+    - [ ] Filters
+    - [ ] Api get
+  - Approval:
+    - [x] Screen
+    - [ ] Api get
+    - [ ] Api post
+  - Details:
+    - [ ] Screen
+    - [ ] Api get
+  - Register:
+    - [ ] Screen
+    - [ ] Api post
+- Travelers:
+  - List:
+    - [ ] Screen
+    - [ ] Filters
+    - [ ] Api get
+  - Details:
+    - [ ] Screen
+    - [ ] Api get
+  - Approval:
+    - [ ] Screen
+    - [ ] Api get
+    - [ ] Api post
+  - Register:
+    - [ ] Screen
+    - [ ] Api post
+- Transactions:
+  - List:
+    - [x] Screen
+    - [ ] Api get
+  - Details:
+    - [ ] Screen
+    - [ ] Api get
+- Events:
+  - List:
+    - [x] Screen
+    - [ ] Api get
+  - Approval:
+    - [ ] Screen
+    - [ ] Api post
+- Subcategories:
+  - List:
+    - [x] Screen
+    - [ ] Api get
+  - Register:
+    - [ ] Screen
+    - [ ] Api post
+- Notifications: 
+  - List:
+    - [ ] Screen
+    - [ ] Api get
+  - Add notification:
+    - [ ] Screen
+    - [ ] Api post
+- Vouchers:
+  - List:
+    - [ ] Screen
+    - [ ] Api get
+  - Add voucher:
+    - [ ] Screen
+    - [ ] Api post
+- Reports:
+  - [ ] List
+  - [ ] Approval
+- Financial:
+  - TBD
+- Support:
+  - Zendesk

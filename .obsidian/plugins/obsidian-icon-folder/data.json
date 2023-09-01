@@ -5,11 +5,11 @@
     "fontSize": 18,
     "iconColor": "#e6e6e6",
     "recentlyUsedIcons": [
+      "FarBookmark",
+      "FasBriefcaseMedical",
+      "FasCode",
       "FasHelmetSafety",
-      "FarMoneyBill1",
-      "FasPencil",
-      "FasPenFancy",
-      "FasBrain"
+      "FarMoneyBill1"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,7 +22,6 @@
   },
   "Daily Notes": "FarCalendarDays",
   "Assets": "FasDatabase",
-  "Tasks.md": "FasListCheck",
   "Assets/Templates": "FasPaperclip",
   "Work": "FasDollarSign",
   "RPG Campaigns": "FasDice",
@@ -38,5 +37,7 @@
   "Studies/Engenharia de Software": "FasGears",
   "Terapia": "FasBrain",
   "Projects/Pensmith": "FasPenFancy",
-  "Vagas.md": "FasHelmetSafety"
+  "Click Soft": "FasCode",
+  "Click Soft/Click Consulta/index.md": "FasBriefcaseMedical",
+  "Goals.md": "FarBookmark"
 }

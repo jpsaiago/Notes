@@ -50,5 +50,7 @@
   "minimal-style@@h6-size": "1.25em",
   "minimal-style@@h6-color@@dark": "#EBA625",
   "minimal-style@@h5-color@@dark": "#7DEB25",
-  "minimal-style@@callout-blend-mode": "normal"
+  "minimal-style@@callout-blend-mode": "normal",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal"
 }

@@ -1,0 +1,3 @@
+- Deadlines being set before task analysis
+- What are we going to do when it comes to the backoffice
+- 

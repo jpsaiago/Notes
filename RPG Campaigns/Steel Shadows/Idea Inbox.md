@@ -1,4 +1,4 @@
-## Inspiration Tidbits
+# Inspiration Tidbits
 
 >[!cite] Master Willem, Bloodborne 
 >We are born of the blood, made men by the blood, undone by the blood. Our eyes are yet to open. Fear the Old Blood.

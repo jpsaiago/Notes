@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "textFontFamily": "Fira Code",
   "enabledCssSnippets": [
     "global",
     "callouts"
   ],
-  "accentColor": "#c93166",
+  "accentColor": "",
   "baseFontSize": 15
 }

@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "tabSize": 2,
+  "useTab": false
 }

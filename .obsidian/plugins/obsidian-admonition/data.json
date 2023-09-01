@@ -13,18 +13,6 @@
       "noTitle": false,
       "copy": false
     },
-    "pro": {
-      "type": "pro",
-      "color": "46, 251, 19",
-      "icon": {
-        "type": "octicons",
-        "name": "thumbsup"
-      },
-      "command": false,
-      "title": null,
-      "injectColor": true,
-      "noTitle": true
-    },
     "con": {
       "type": "con",
       "color": "216, 24, 24",
